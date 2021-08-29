@@ -1,0 +1,5 @@
+hash          0df465de8a0f33497bbcb0a4365e6937fd3de074e7273c...
+tijd                                                      18:33
+btc_waarde                                       8.01540888 BTC
+usd_waarde                                          $391,126.46
+Name: 0, dtype: object
